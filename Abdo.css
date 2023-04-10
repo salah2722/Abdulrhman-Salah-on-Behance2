@@ -1,0 +1,31 @@
+body{
+    background-color:dimgray;
+}
+
+.h1{
+    background-color: black;
+    color: aquamarine;
+    border: 10px solid ;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url("./photo/Abdo.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.p{
+    color: deepskyblue;
+    background-color: black ;
+    font-size: 20px;
+    padding: right 10px;
+    border: solid 10px aqua
+}
+
+.ul{
+    width: 70%;
+    margin: auto;
+    background-color: peachpuff ;
+    color: blue;
+    font-size: 20px;
+}
